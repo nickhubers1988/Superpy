@@ -10,7 +10,7 @@ from reportlab.lib.pagesizes import letter
 from reportlab.lib import colors
 from reportlab.platypus import SimpleDocTemplate, Table, TableStyle, Spacer, Paragraph
 
-# Function to export data to a PDF
+# Function to export data to a PDF based on dates
 def export_to_pdf(bought_table, bought_price, sold_table, sold_price, profit_price, file_name):
     doc = SimpleDocTemplate(file_name, pagesize=letter)
     
