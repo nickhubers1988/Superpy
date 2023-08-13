@@ -1,0 +1,7 @@
+id,product_name,buy_date,price,expiration_date
+2,Product A,2023-08-05,10.99,2023-12-31
+3,Product B,2023-08-05,12.9,2023-12-21
+4,Product A,2023-08-06,8.0,2023-12-31
+5,Product C,2023-08-06,7.0,2023-12-31
+6,Product A,2023-08-06,10.99,2023-08-31
+7,Product A,2023-08-04,2.55,2023-11-21
